@@ -2,7 +2,7 @@
 $user="root";
 $server="localhost";
 $password="";
-$database="db_ptKaryaAnakBangsa";
+$database="db_ptkaryaanakbangsa";
 
 $conn=mysql_connect($server,$user,$password);
 if($conn){
